@@ -125,7 +125,7 @@ function detectCollisions() {
     {
       audio2.currentTime = 0; // Start from the beginning
       audio2.play();
-      alert('DUARR, dapat : ' + score + ' poin')
+      alert('DUARR, crot : ' + score + ' poin')
     
       bird.style.top = '250px'
       bird.style.left = '30px'
